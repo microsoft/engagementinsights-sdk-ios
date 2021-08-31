@@ -14,4 +14,4 @@ Log custom events and build your own reports for richer insights on how your mob
 [Getting started with the iOS SDK](https://docs.microsoft.com/en-us/dynamics365/customer-insights/engagement-insights/get-started-ios)
 
 ## Sample app
-https://docs.microsoft.com/en-us/dynamics365/customer-insights/engagement-insights/iossdk-sample
+[Run and iOS SDK Sample](https://docs.microsoft.com/en-us/dynamics365/customer-insights/engagement-insights/iossdk-sample)
